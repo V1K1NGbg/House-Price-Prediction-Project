@@ -42,7 +42,6 @@ for i in range(data.date.size):
 
 data['date'] = conv_dates
 
-                                                                                                                                                                                                                                                                                                                                                                    # i have a small penis
 labels = data['price']
 train1 = data.drop('price', axis=1)
 
